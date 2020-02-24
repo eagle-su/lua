@@ -32,7 +32,7 @@
 typedef lua_Unsigned b_uint;
 
 
-
+//eagle_su
 static b_uint andaux (lua_State *L) {
   int i, n = lua_gettop(L);
   b_uint r = ~(b_uint)0;
